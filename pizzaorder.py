@@ -34,4 +34,4 @@ extra_cheese = extra_cheese.upper()
 if extra_cheese == "Y":
     price += 2
 
-print(f"your total bill is {price}")
+print(f"your total bill is {price} and thanks for ordering")
